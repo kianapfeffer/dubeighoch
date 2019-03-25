@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ikuquaivau.hospitalrun.io/sitemap.xml
